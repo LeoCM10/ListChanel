@@ -98,10 +98,11 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 Bein Sport Can 
 https://list.iptvcat.com/my_list/s/cef3d8a902e2014c7a36411edc41fa28.m3u8
 
+#EXTINF:-1 NBA TV Canadá group-title="DEPORTES" ,
+https://list.iptvcat.com/my_list/s/33d0df490043200604bbc2093d7dde92.m3u8
 
+#EXTINF:-1 NFL Network Canadá group-title="DEPORTES" ,
+https://list.iptvcat.com/my_list/s/66655fef54f86ddd3516bc9974c19299.m3u8
 
-
-
-
-
-
+#EXTINF:-1 Sky Sports Alemania group-title="DEPORTES",
+https://list.iptvcat.com/my_list/s/07d0c8f26458b59f40b3446e318c4a53.m3u8
